@@ -15,7 +15,7 @@ for i in range(0, len(resjson)):
   tmdbid = resjson[i]['movie']['ids']['tmdb']
   with urllib.request.urlopen('https://api.themoviedb.org/3/movie/'+str(tmdbid)+'?api_key=b729fb42b650d53389fb933b99f4b072&language=zh') as response:
     tmdbinfo = json.loads(response.read().decode())
-  list.append(tmdbinfo['title'])
+  list.append(tmdbinfo['title']+' ('+str(resjson[i]['movie']['year'])+')')
   i = i+1
 
 def to_pinyin(s):
