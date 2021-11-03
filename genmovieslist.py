@@ -12,11 +12,15 @@ with urllib.request.urlopen(req) as response:
 resjson = json.loads(res)
 
 for i in range(0, len(resjson)):
-  tmdbid = resjson[i]['movie']['ids']['tmdb']
-  with urllib.request.urlopen('https://api.themoviedb.org/3/movie/'+str(tmdbid)+'?api_key=b729fb42b650d53389fb933b99f4b072&language=zh-CN') as response:
-    tmdbinfo = json.loads(response.read().decode())
-  list.append(tmdbinfo['title']+' ('+str(resjson[i]['movie']['year'])+')')
-  i = i+1
+    tmdbid = resjson[i]['movie']['ids']['tmdb']
+    try:
+        with urllib.request.urlopen('https://api.themoviedb.org/3/movie/'+str(tmdbid)+'?api_key=b729fb42b650d53389fb933b99f4b072&language=zh-CN') as response:
+            tmdbinfo = json.loads(response.read().decode())
+        list.append(tmdbinfo['title']+' ('+str(resjson[i]['movie']['year'])+')')
+        i = i+1
+    except:
+        i = i+1
+        continue
 
 def to_pinyin(s):
     return ''.join(chain.from_iterable(pinyin(s, style=Style.TONE3)))
