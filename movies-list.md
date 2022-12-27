@@ -1864,6 +1864,8 @@ Yi Yi 一一 (2000)
 
 绝命毒师电影：续命之徒 El Camino: A Breaking Bad Movie (2019)
 
+觉醒 The Awakening (2011) 
+
 爵士风情 Mo' Better Blues (1990)
 
 爵士之王 King of Jazz (1930)
@@ -2500,8 +2502,6 @@ Yi Yi 一一 (2000)
 
 你妈妈也一样 Y tu mamá también (2001)
 
-你妈妈也一样 Y tu mamá también (2001)
-
 你能原谅我吗？ Can You Ever Forgive Me? (2018)
 
 你逃我也逃 To Be or Not to Be (1942)
@@ -2702,8 +2702,6 @@ Yi Yi 一一 (2000)
 
 青春珊瑚岛 The Blue Lagoon (1980)
 
-青春珊瑚岛：觉醒 Blue Lagoon: The Awakening (2012)
-
 轻井泽夫人 軽井沢夫人 (1982)
 
 青梅竹马 青梅竹馬 (1985)
@@ -2779,8 +2777,6 @@ Yi Yi 一一 (2000)
 热血高校2 クローズZERO II (2009)
 
 热血高校3 クローズ EXPLODE (2014)
-
-热血街区电影版 HiGH&LOW THE MOVIE (2016)
 
 热血街区电影版 HiGH&LOW THE MOVIE (2016)
 
@@ -3902,13 +3898,7 @@ Yi Yi 一一 (2000)
 
 猩红山峰 Crimson Peak (2015)
 
-星际迷航10：复仇女神 Star Trek: Nemesis (2002)
-
-星际迷航11：开启未来 Star Trek (2009)
-
-星际迷航12：暗黑无界 Star Trek Into Darkness (2013)
-
-星际迷航13：超越星辰 Star Trek Beyond (2016)
+星际穿越 Interstellar (2014)
 
 星际迷航1：无限太空 Star Trek: The Motion Picture (1979)
 
@@ -3928,7 +3918,19 @@ Yi Yi 一一 (2000)
 
 星际迷航9：起义 Star Trek: Insurrection (1998)
 
-星際啟示錄 Interstellar (2014)
+星际迷航10：复仇女神 Star Trek: Nemesis (2002)
+
+星际迷航11：开启未来 Star Trek (2009)
+
+星际迷航12：暗黑无界 Star Trek Into Darkness (2013)
+
+星际迷航13：超越星辰 Star Trek Beyond (2016)
+
+星球大战前传1：幽灵的威胁 Star Wars: Episode I - The Phantom Menace (1999)
+
+星球大战前传2：克隆人的进攻 Star Wars: Episode II - Attack of the Clones (2002)
+
+星球大战前传3：西斯的复仇 Star Wars: Episode III - Revenge of the Sith (2005)
 
 星球大战4：新希望 Star Wars (1977)
 
@@ -4047,8 +4049,6 @@ Yi Yi 一一 (2000)
 雁南飞 Летят журавли (1957)
 
 艳之夜 つやのよる　ある愛に関わった、女たちの物語 (2013)
-
-阳光灿烂的日子 阳光灿烂的日子 (1994)
 
 阳光灿烂的日子 阳光灿烂的日子 (1994)
 
