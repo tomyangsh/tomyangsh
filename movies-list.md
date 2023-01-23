@@ -208,6 +208,8 @@ X战警：新变种人 The New Mutants (2020)
 
 爱在午夜降临前 Before Midnight (2013)
 
+爱猫之城 Kedi (2017) 
+
 安德的游戏 Ender's Game (2013)
 
 安德烈·卢布廖夫 Андрей Рублёв (1966)
@@ -1219,6 +1221,8 @@ X战警：新变种人 The New Mutants (2020)
 古墓丽影 Lara Croft: Tomb Raider (2001)
 
 古墓丽影：生命之匙 Lara Croft: Tomb Raider - The Cradle of Life (2003)
+
+谷子和鲻鱼 La Graine et le Mulet (2007) 
 
 怪兽电力公司 Monsters, Inc. (2001)
 
@@ -2688,6 +2692,8 @@ X战警：新变种人 The New Mutants (2020)
 
 切肤之爱 オーディション (1999)
 
+切腹 (1962)
+
 窃听风暴 Das Leben der Anderen (2006)
 
 切·格瓦拉传：阿根廷人 Che: Part One (2008)
@@ -3241,6 +3247,10 @@ X战警：新变种人 The New Mutants (2020)
 苏州河 (2000)
 
 宿敌 Enemy (2013)
+
+宿醉 The Hangover (2009)
+
+宿醉2 The Hangover Part II (2011)
 
 速度与激情 The Fast and the Furious (2001)
 
