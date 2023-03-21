@@ -1674,6 +1674,8 @@ X战警：新变种人 The New Mutants (2020)
 
 极度兽性 極度獸性 (1996)
 
+基督最后的诱惑 The Last Temptation of Christ (1988)
+
 饥饿 Hunger (2008)
 
 劫车 Carjacked (2011)
@@ -2414,6 +2416,8 @@ X战警：新变种人 The New Mutants (2020)
 
 魔法灰姑娘 Ella Enchanted (2004)
 
+模仿游戏 The Imitation Game (2014)
+
 魔法奇缘 Enchanted (2007)
 
 魔发奇缘 Tangled (2010)
@@ -2895,6 +2899,8 @@ X战警：新变种人 The New Mutants (2020)
 杀出个黎明 From Dusk Till Dawn (1996)
 
 傻瓜入狱记 Take the Money and Run (1969)
+
+晒后假日 Aftersun (2022)
 
 杀戮场 Killing Ground (2017)
 
@@ -4197,6 +4203,8 @@ X战警：新变种人 The New Mutants (2020)
 隐形人 The Invisible Man (2020)
 
 银翼杀手 Blade Runner (1982)
+
+银翼杀手2049 Blade Runner 2049 (2017)
 
 一千次晚安 Tusen ganger god natt (2013)
 
