@@ -142,6 +142,8 @@ X战警：新变种人 The New Mutants (2020)
 
 爱 Amour (2012)
 
+爱的曝光 愛のむきだし (2009) 
+
 爱的激流 Love Streams (1984)
 
 爱的愉悦在伊朗 Plaisir d'amour en Iran (1976)
@@ -3081,6 +3083,8 @@ X战警：新变种人 The New Mutants (2020)
 师弟出马 師弟出馬 (1980)
 
 十二个想死的孩子 十二人の死にたい子どもたち (2019)
+
+十二宫 Zodiac (2007)
 
 十二猴子 Twelve Monkeys (1995)
 
